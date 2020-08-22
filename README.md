@@ -5,7 +5,7 @@ Track your spending with a cutom budge tracker built just for you! Whether you'r
 
 
  ## Deployed App 
-
+![alt text](https://github.com/jaylanw/Workout-Tracker/blob/master/public/images/Screen%20Shot%202020-08-15%20at%2010.23.35%20PM.png)
 
 ## Technologies Used:
 - Express
